@@ -1,3 +1,11 @@
 {
-    "currentAlbum": "Mircea"
+    "currentAlbum": {
+        "pages": {
+            "background": "https://source.unsplash.com/random",
+            "textDescription": "Text pus de utilizator",
+            "textPosX": 0,
+            "textPosy": 0,
+            
+        }
+    }
 }
