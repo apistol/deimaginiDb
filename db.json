@@ -15,7 +15,12 @@
                 "layoutWidth": "400",
                 "rowsLayout": "2",
                 "row1": "1",
-                "row1Col1": "https://source.unsplash.com/random",
+                "row1Col1": { 
+                    "image":"https://source.unsplash.com/random",
+                    "col": 12,
+                    "zoom": 1,
+                    "rotation": 0
+                    },
                 "row1Col2": "",
                 "row1Col3": "",
                 "row1Col4": "",
