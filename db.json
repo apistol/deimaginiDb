@@ -1,6 +1,8 @@
 {
     "currentAlbum": {
-        "pages": [{
+        "pages": 
+        [
+            {
             "background": "https://source.unsplash.com/random",
             "textDescription": "Text pus de utilizator",
             "textPosX": 0,
@@ -91,7 +93,7 @@
                 "row4Col4": ""
             }
         },
-        {
+            {
             "background": "https://source.unsplash.com/random",
             "textDescription": "Text pus de utilizator",
             "textPosX": 0,
@@ -182,5 +184,32 @@
                 "row4Col4": ""
             }
         }]
-    }
+    },
+    "images":[
+        {
+            "imageUrl":"https://source.unsplash.com/random",
+            "userId":234523424515
+        },
+        {
+            "imageUrl":"https://source.unsplash.com/random",
+            "userId":234523424515
+        },
+        {
+            "imageUrl":"https://source.unsplash.com/random",
+            "userId":234523424515
+        },
+        {
+            "imageUrl":"https://source.unsplash.com/random",
+            "userId":234523424515
+        },
+        {
+            "imageUrl":"https://source.unsplash.com/random",
+            "userId":234523424515
+        },
+        {
+            "imageUrl":"https://source.unsplash.com/random",
+            "userId":234523424515
+        }
+    ]
 }
+
